@@ -1,0 +1,9 @@
+const name={
+    name:"deepal",
+    age:23
+}
+const name1={
+    ...name,
+    ["name"]:'kunal'
+}
+console.log(name1)
