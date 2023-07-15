@@ -1,0 +1,6 @@
+let str="my name is deepak"
+let a=str.split(" ")
+console.log(a)
+let b=a.reverse()
+let c=b.join(" ")
+console.log(c)
