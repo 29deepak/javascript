@@ -1,5 +1,5 @@
 const arr=[10,20,30,40,50]
-let a =arr.join()
+let a =arr.join()//-----it return in the form of string
 console.log(a) //it return the elemenet ----10,20,30,40,50
 
 
