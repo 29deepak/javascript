@@ -1,5 +1,5 @@
 ///topic is slice
-
+// slice is always return array
 
 const arr=[1,2,3,4,5]
 // first of all ---if i iterate all the elements in the array we start withn index 0.
